@@ -36,6 +36,9 @@ daemon monitor
 Pub-sub capability
 Supports events based on channels and patterns
 
-list of possible solutions
+## List of another possible solutions
 - NGINX
 - NODE-HTTP-PROXY
+- haproxy
+- kafka
+- consul
